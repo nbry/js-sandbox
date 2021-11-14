@@ -1,7 +1,4 @@
 'use strict';
-
-const lib = require('./lib');
-
-
-
-lib.cryptoHmac();
+console.clear();
+console.log('****BEGIN****');
+// Sandbox Below:
